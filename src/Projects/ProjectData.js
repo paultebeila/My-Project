@@ -5,14 +5,6 @@ import senepe2 from '../assets/AddEmp2.png'
 import zaka from '../assets/Budget.png'
 import sick from '../assets/Covid.png'
 const ProjectData = [
-    {
-        title: "Todo App",
-        description: "A fullstack Todo list app running on mobile",
-        codeLink: "https://github.com/codexpression-nj/toDo-ionic5",
-        projectLink: "https://www.canva.com/design/DAFGIxaE6uk/F34KvhF-VkEaWJhECspfzQ/view?website#2",
-        imageUrl: newsappImg,
-        tag: "Ionic",
-     },
      {
         title: "Add Employee",
         description: "A fullstack Add Employee app running on Computer",
@@ -41,7 +33,7 @@ const ProjectData = [
         title: "Budget-App using Firebase",
         description: "A fullstack Budget applicaton running on Computer and saving the data to a firebase storage",
         codeLink: "https://github.com/paultebeila/budget-app",
-        projectLink: "https://paultebeila.github.io/budget-app",
+        projectLink: "https://budgwt-app.web.app",
         imageUrl: zaka,
         tag: "React JS",
      },
